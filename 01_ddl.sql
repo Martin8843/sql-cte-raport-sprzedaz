@@ -1,11 +1,5 @@
 -- =========================================================================
-/*
-	Plik do zadania 4 i 5: 01_ddl.sql
-	Tytuł: Tworzy strukturę tabel.
-	Data: 2025-09-03
-*/
--- =========================================================================
-
+--Tworzy strukturę tabel.
 
 CREATE TABLE Regiony (
     id_region   NUMBER PRIMARY KEY,
