@@ -1,8 +1,8 @@
 
-### Projekt SQL: raporty miesięcznej sprzedaży dla pracowników
+## Projekt SQL: raporty miesięcznej sprzedaży dla pracowników
 
 
-## Opis projektu
+### Opis projektu
 
 **Cel projektu:**  
 Celem projektu jest automatyzacja rocznych raportów sprzedaży (KPI) dla zespołu handlowego oraz wyznaczenie liderów regionalnych do premii.
