@@ -1,11 +1,5 @@
--- =========================================================================
-/*
-	Plik do zadania 4 i 5: 02_raporty.sql
-	Tytuł: Skrypt sql do wygenerowania dwóch raportów sprzedazowych.
-	Data: 2025-09-03
-*/
--- =========================================================================
-
+---
+	Skrypt sql do wygenerowania dwóch raportów sprzedazowych.
 
 
 --========================================
